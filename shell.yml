@@ -2,4 +2,4 @@
 - hosts: localhost
   tasks:
     - shell: |
-        curl http.org/anything
+        curl httpbin.org/anything
