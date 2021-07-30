@@ -3,3 +3,5 @@
   tasks:
     - shell: |
         curl httpbin.org/anything
+    - shell: |
+        curl httpbin.org/anything
