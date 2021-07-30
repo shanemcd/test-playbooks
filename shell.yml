@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+    - shell: |
+        curl http.org/anything
